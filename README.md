@@ -22,8 +22,8 @@ Este repositorio contiene un bot de Telegram creado en Python, diseñado para re
 
 1. Clona este repositorio en tu máquina local.
    ```bash
-   git clone https://github.com/tu-usuario/telegram-bot.git
-   cd telegram-bot
+   git clone https://github.com/davidcanoteayuda/telegram_bot.git
+   cd telegram_bot
    ```
 
 2. Crea un entorno virtual.
@@ -38,14 +38,14 @@ Este repositorio contiene un bot de Telegram creado en Python, diseñado para re
    ```
 
 4. Configura el bot:
-   - Reemplaza `TOKEN` en el código con el token de tu bot de Telegram.
+   - Reemplaza `AQUI TU TOKEN DE BOTFATHER` en el código con el token de tu bot de Telegram.
    - Reemplaza `TU_API_KEY_DE_OPENWEATHER`, `TU_API_KEY_DE_EXCHANGERATE_API`, y `TU_API_KEY_DE_UNSPLASH` con tus respectivas API keys.
 
 ## Uso
 
 1. Ejecuta el bot.
    ```bash
-   python nombre_del_archivo.py
+   python bot.py
    ```
 
 2. Comandos disponibles en el bot:
